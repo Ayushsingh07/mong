@@ -100,3 +100,5 @@ if btn:
 		
 		np.save("emotion.npy", np.array([""]))
 		st.session_state["run"] = "false"
+		#updation
+		print("Hello")
